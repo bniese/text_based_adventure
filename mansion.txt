@@ -1,0 +1,18 @@
+exit North 1 unlocked keys 0 money 1.00 monster 0 0 0 n/a no_exit_game
+You are in a large foyer of the mansion you just entered. There is a door directly to the "North" of you. #
+exit Up 5 locked exit East 2 unlocked exit South 0 unlocked keys 0 money 5.00 monster 0 0 0 n/a no_exit_game
+You are in a long hallway with a stairwell "Up" to the second floor and a door to the "East" and the "South". #
+exit West 1 unlocked exit South 3 unlocked keys 0 money 17.38 monster 0 0 0 n/a no_exit_game
+You just entered the kitchen. It looks like the owner left some change on the counter. The entrance to the kitchen is to the "West". The pantry to the "South" seems to be open. #
+exit North 2 unlocked keys 1 money 20.00 monster 1 20 6 Ghost no_exit_game
+The Ghost was protecting a box, you should probably pick that up. The door is now "North" of you. #
+exit North 5 unlocked exit East 7 unlocked keys 0 money 1.00 monster 0 0 0 n/a no_exit_game
+You entered the living room the TV is playing Trap Queen on repeat. The owner may be a little obsessed with himself. There are doors to the "North" and "East". #
+exit Down 1 unlocked exit South 4 unlocked keys 0 money 12.00 monster 1 20 5 Troll no_exit_game
+The troll dropped some loot. You could go back "Down" the stairs or you could go through the door to the "South" of you. #
+exit South 7 unlocked keys 1 money 0.00 monster 1 30 5 Troll no_exit_game
+You just defeated the Key Holding Troll and dropped the key to the roof. The door you entered is to the "South" of you. #
+exit West 4 unlocked exit Up 8 locked exit North 6 unlocked keys 0 money 10.00 monster 0 0 0 n/a no_exit_game
+You entered a bedroom with a staircase "Up" to the roof.  The living room is to the "West" and a walk-in closet to the "North". #
+exit Down 7 unlocked keys 0 money 0.00 monster 1 40 8 Dragon(Boss) exit_game
+You defeated the dragon, and tamed it. You may now fly away on your dragon. #

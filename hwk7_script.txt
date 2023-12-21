@@ -1,0 +1,417 @@
+Script started on Wed Apr 27 20:43:05 2016
+[?1034hbash-3.2$ g==[K[K++ hw[K[K*.cc
+bash-3.2$ a/.a[K[K[K[K./a.out
+Enter the file for your world
+mansion.txt
+Whats Your Name, Adventurer?
+Brandon niese     Niese
+Brandon Niese, welcome to Brandon's Adventure Game.
+This is a menu driven game, but asks you to enter the direction
+you want to go. When entering the direction please enter "North"
+"South" "East" "West" "Up" "Down" etc.
+You will have only one(1) full heal(40 hp) and two(2) half heals(20 hp).
+Beware of Monsters!!
+Happy Adventuring
+
+You are in a large foyer of the mansion you just entered. There is a door directly to the "North" of you. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+2
+You picked up 0 key(s)
+You picked up $1.00
+You are in a large foyer of the mansion you just entered. There is a door directly to the "North" of you. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+4
+You can't leave. There is no way out right here.
+You are in a large foyer of the mansion you just entered. There is a door directly to the "North" of you. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+3
+You Have:
+$1.00
+0 keys
+1 full heal(s)
+2 half heal(s)
+You are in a large foyer of the mansion you just entered. There is a door directly to the "North" of you. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+1
+Which direction do you want to go?
+North
+You are in a long hallway with a stairwell "Up" to the second floor and a door to the "East" and the "South". 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+Up
+Enter a valid choice
+You are in a long hallway with a stairwell "Up" to the second floor and a door to the "East" and the "South". 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+1
+Which direction do you want to go?
+Up
+The door is locked
+Do you want to unlock the door?
+yes
+You don't have a key
+You are in a long hallway with a stairwell "Up" to the second floor and a door to the "East" and the "South". 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+q 1
+Which direction do you want to go?
+East
+You just entered the kitchen. It looks like the owner left some change on the counter. The entrance to the kitchen is to the "West". The pantry to the "South" seems to be open. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+2
+You picked up 0 key(s)
+You picked up $17.38
+You just entered the kitchen. It looks like the owner left some change on the counter. The entrance to the kitchen is to the "West". The pantry to the "South" seems to be open. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+1
+Which direction do you want to go?
+South
+You encountered a monster!
+
+Ghost: 20 hp
+Brandon Niese: 40 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+
+Ghost: 12 hp
+Brandon Niese: 34 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+
+Ghost: 4 hp
+Brandon Niese: 28 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+You defeated the Ghost!
+The Ghost was protecting a box, you should probably pick that up. The door is now "North" of you. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+2
+You picked up 1 key(s)
+You picked up $20.00
+The Ghost was protecting a box, you should probably pick that up. The door is now "North" of you. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+3
+You Have:
+$38.38
+1 keys
+1 full heal(s)
+2 half heal(s)
+The Ghost was protecting a box, you should probably pick that up. The door is now "North" of you. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+2
+You picked up 0 key(s)
+You picked up $0.00
+The Ghost was protecting a box, you should probably pick that up. The door is now "North" of you. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+1
+Which direction do you want to go?
+Not rth
+You just entered the kitchen. It looks like the owner left some change on the counter. The entrance to the kitchen is to the "West". The pantry to the "South" seems to be open. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+1
+Which direction do you want to go?
+West
+You are in a long hallway with a stairwell "Up" to the second floor and a door to the "East" and the "South". 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+1
+Which direction do you want to go?
+Up
+The door is locked
+Do you want to unlock the door?
+yes
+You encountered a monster!
+
+Troll: 20 hp
+Brandon Niese: 28 hp
+What would you like to do?
+Fight or Heal
+Figth
+That wasn't a choice!
+
+Troll: 20 hp
+Brandon Niese: 28 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+
+Troll: 12 hp
+Brandon Niese: 23 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+
+Troll: 4 hp
+Brandon Niese: 18 hp
+What would you like to do?
+Fight or Heal
+Figth
+That wasn't a choice!
+
+Troll: 4 hp
+Brandon Niese: 18 hp
+What would you like to do?
+Fight or Heal
+Heal
+"Full" Heal or "Half" Heal
+Ful   Half
+
+Troll: 4 hp
+Brandon Niese: 38 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+You defeated the Troll!
+You defeated the Troll!
+You defeated the Troll!
+The troll dropped some loot. You could go back "Down" the stairs or you could go through the door to the "South" of you. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+d 2
+You picked up 0 key(s)
+You picked up $12.00
+The troll dropped some loot. You could go back "Down" the stairs or you could go through the door to the "South" of you. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+1
+Which direction do you want to go?
+South
+You entered the living room the TV is playing Trap Queen on repeat. The owner may be a little obsessed with himself. There are doors to the "North" and "East". 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+2
+You picked up 0 key(s)
+You picked up $1.00
+You entered the living room the TV is playing Trap Queen on repeat. The owner may be a little obsessed with himself. There are doors to the "North" and "East". 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+1
+Which direction do you want to go?
+Ease w t
+You entered a bedroom with a staircase "Up" to the roof. The living room is to the "West" and a walk-in closet to the "North". 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+1
+Which direction do you want to go?
+North
+You encountered a monster!
+
+Troll: 30 hp
+Brandon Niese: 38 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+
+Troll: 22 hp
+Brandon Niese: 33 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+
+Troll: 14 hp
+Brandon Niese: 28 hp
+What would you like to do?
+Fight or Heal
+Figth
+That wasn't a choice!
+
+Troll: 14 hp
+Brandon Niese: 28 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+
+Troll: 6 hp
+Brandon Niese: 23 hp
+What would you like to do?
+Fight or Heal
+Figth
+That wasn't a choice!
+
+Troll: 6 hp
+Brandon Niese: 23 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+You defeated the Troll!
+You defeated the Troll!
+You defeated the Troll!
+You just defeated the Key Holding Troll and dropped the key to the roof. The door you entered is to the "South" of you. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+2
+You picked up 1 key(s)
+You picked up $0.00
+You just defeated the Key Holding Troll and dropped the key to the roof. The door you entered is to the "South" of you. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+1
+Which direction do you want to go?
+South
+You entered a bedroom with a staircase "Up" to the roof. The living room is to the "West" and a walk-in closet to the "North". 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+4
+You can't leave. There is no way out right here.
+You entered a bedroom with a staircase "Up" to the roof. The living room is to the "West" and a walk-in closet to the "North". 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+1
+Which direction do you want to go?
+Up
+The door is locked
+Do you want to unlock the door?
+yes
+You encountered a monster!
+
+Dragon(Boss): 40 hp
+Brandon Niese: 23 hp
+What would you like to do?
+Fight or Heal
+Heal
+"Full" Heal or "Half" Heal
+Fule l
+
+Dragon(Boss): 40 hp
+Brandon Niese: 40 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+
+Dragon(Boss): 32 hp
+Brandon Niese: 32 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+
+Dragon(Boss): 24 hp
+Brandon Niese: 24 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+
+Dragon(Boss): 16 hp
+Brandon Niese: 16 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+
+Dragon(Boss): 8 hp
+Brandon Niese: 8 hp
+What would you like to do?
+Fight or Heal
+Fight
+BOOM BOOM POW
+You defeated the Dragon(Boss)!
+You defeated the dragon, and tamed it. You may now fly away on your dragon. 
+What do you want to do?
+1. Go
+2. Pick Up
+3. Inventory
+4. Try to leave
+4
+Congratulations you made it out alive!
+bash-3.2$ exit
+exit
+
+Script done on Wed Apr 27 20:48:20 2016
